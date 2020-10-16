@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./src/assets/map-mak.svg" width="500px"/>
+  <img src="./images/map-mak.svg" width="500px"/>
 </h1>
 
 <h2 align="center"> Aplicação para organização de visitas nos orfanatos</h2>
@@ -26,11 +26,11 @@
 
 <h2 align="center">Criado com as Tecnologias :rocket: </h2>
 <h3>
-    <img src="./src/assets/react.png" height="18"/> React Js
-    <img src="./src/assets/react-native.png" height="18"/> React Native
-    <img src="./src/assets/node.png" height="18" /> Node Js
-    <img src="./src/assets/sqlite.png" height="18" /> Sqlite
-    <img src="./src/assets/ts.png" height="18" /> Typescript
+    <img src="./images/react.png" height="18"/> React Js
+    <img src="./images/react-native.png" height="18"/> React Native
+    <img src="./images/node.png" height="18" /> Node Js
+    <img src="./images/sqlite.png" height="18" /> Sqlite
+    <img src="./images/ts.png" height="18" /> Typescript
 </h3>
 
 ## 📱 Projeto
@@ -41,10 +41,10 @@
 </p>
 
 <h5 align="center">
-  <img src="./src/assets/landingPage.png"/>
+  <img src="./images/landingPage.png"/>
 </h5>
 <h5 align="center">
-  <img src="./src/assets/HappyMap.png"/>
+  <img src="./images/HappyMap.png"/>
 </h5>
 
 
