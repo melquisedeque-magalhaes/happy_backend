@@ -39,10 +39,13 @@
 </p>
 
 <h5 align="center">
-  <img src="./images/landingPage.png"/>
+  <img src="./images/insominia1.png"/>
 </h5>
 <h5 align="center">
-  <img src="./images/HappyMap.png"/>
+  <img src="./images/insomnia.png"/>
+</h5>
+<h5 align="center">
+  <img src="./images/insomniaListOphanages.png"/>
 </h5>
 
 
