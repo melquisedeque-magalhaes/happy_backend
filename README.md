@@ -6,7 +6,7 @@
 <h2 align="center"> Aplicação para organização de visitas nos orfanatos</h2>
 
 <h3 align="center">
-  Happy - Aplicação Frontend com React com Typescript
+  Happy - Aplicação Backend com NodeJs e com Typescript
 </h3>
 
 <p align="center">
@@ -26,8 +26,6 @@
 
 <h2 align="center">Criado com as Tecnologias :rocket: </h2>
 <h3>
-    <img src="./images/react.png" height="18"/> React Js
-    <img src="./images/react-native.png" height="18"/> React Native
     <img src="./images/node.png" height="18" /> Node Js
     <img src="./images/sqlite.png" height="18" /> Sqlite
     <img src="./images/ts.png" height="18" /> Typescript
