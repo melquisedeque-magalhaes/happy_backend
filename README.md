@@ -8,6 +8,9 @@
 <h3 align="center">
   Happy - Aplicação Backend com NodeJs e com Typescript
 </h3>
+<h4>
+    Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3
+</h4>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-7-green">
@@ -34,8 +37,11 @@
 ## 📱 Projeto
 
 <p>
-  O GoBarber é uma aplicação web e mobile para organização de visitas em orfanatos. Essa aplicação foi construída durante a Next Level Week da <a href="https://rocketseat.com.br/">Rocketseat</a>
-  🚀
+O Happy é uma aplicação web e mobile para organização de visitas em orfanatos.
+Essa aplicação permite que, se você faz parte de um orfanato, cadastre ele no mapa e caso você queira visitar um orfanato e fazer o dia de muitas crianças mais feliz, este é o lugar que vai encontrar os orfanatos mais perto de você.
+
+Este projeto foi construído durante a terceira edição do evento Next Level Week da <a href="https://rocketseat.com.br/">Rocketseat</a>
+  🚀.
 </p>
 
 <h5 align="center">
